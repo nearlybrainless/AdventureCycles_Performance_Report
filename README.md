@@ -12,7 +12,17 @@ This Power BI project provides a comprehensive analysis of **AdventureWorks'** b
 - 🏆 **Top-Selling Products**: Best-performing categories and SKUs  
 - 👥 **Customer Segmentation**: Purchase behavior and demographics  
 - 🌍 **Market Performance**: Sales distribution across different locations  
-- 🔮 **Profit Prediction**: Future profit estimations based on historical data and trends 
+- 🔮 **Profit Prediction**: Future profit estimations based on historical data and trends
+
+## 🖼 Screenshots  
+### 1️⃣ Executive Summary  
+<img src="Exec_Summary.png" alt="Executive Summary" width="400">
+
+### 2️⃣ Product Detail
+<img src="Product_Detail.png" alt="Product Detail" width="400">
+
+### 3️⃣ Customer Detail
+<img src="Customer_Detail.png" alt="Customer Detail" width="400"> 
 
 ## 📂 Files Included  
 - **`AdventureWorks_Report_COMPLETE.pbix`** – Power BI report file containing:  
